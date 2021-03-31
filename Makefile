@@ -6,3 +6,4 @@ test:
 	go test --cover
 clean:
 	rm -rf messages/*
+	rm -rf server
