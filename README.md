@@ -1,5 +1,5 @@
 ## Overview
-This assignment was done in WSL 2 using Golang. The server's address is **localhost:8000** The unit test cases have a 59.2% statement coverage.
+This assignment was done in WSL 2 using Golang. The server's address is **http://localhost:8000/** The unit test cases have a 59.2% statement coverage.
 
 There is a config.json which contains information regarding which API url to retrieve user information and the file directory messages should be stored in.
 
